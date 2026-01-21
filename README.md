@@ -20,3 +20,6 @@ architecture, including:
 - 📄 Technical Report (PDF): https://intellicortex.in/research/sparsitron-technical-report.pdf
 - 🌐 Project page: https://intellicortex.in/research/sparsitron
 - 🧪 Benchmarks: ./benchmarks
+
+This code is provided for research and benchmarking purposes.
+Commercial implementations may require a separate license.
