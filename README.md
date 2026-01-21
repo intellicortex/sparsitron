@@ -18,7 +18,7 @@ architecture, including:
 ## Links
 
 - 📄 Technical Report (PDF): https://intellicortex.in/research/sparsitron-technical-report.pdf
-- 🌐 Project page: https://intellicortex.in/research/sparsitron
+- 🌐 Project page: https://intellicortex.in/research
 - 🧪 Benchmarks: ./benchmarks
 
 This code is provided for research and benchmarking purposes.
