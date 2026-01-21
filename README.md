@@ -13,3 +13,10 @@ architecture, including:
 - Continual adaptation under task drift (synthetic)
 - Memory stabilization via consolidation proxies
 - Hybrid control of dense computation (toy demo)
+
+
+## Links
+
+- 📄 Technical Report (PDF): https://intellicortex.in/research/sparsitron-technical-report.pdf
+- 🌐 Project page: https://intellicortex.in/research/sparsitron
+- 🧪 Benchmarks: ./benchmarks
